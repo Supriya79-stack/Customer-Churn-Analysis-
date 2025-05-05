@@ -54,6 +54,11 @@ Short-term contracts and low-tier plans also show high churn, reflecting **value
 Focusing retention efforts on these behavioral and plan-based risk groups can reduce overall churn.
 
 ---
+Data Source
+
+Dataset Used: [Kaggle - Telecom Churn Dataset ](https://www.kaggle.com/datasets/deepakkumar707/telecom-company-dataset-for-customer-churn)
+Created by Deepak Kumar 
+
 
 Created by \Supriya Purkuti — aspiring data analyst. Open to feedback and collaboration.
 [Linkedin: Supriya Purkuti](https://www.linkedin.com/in/supriya-purkuti/)
