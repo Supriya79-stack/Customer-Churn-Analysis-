@@ -14,7 +14,7 @@ To explore behavioral and demographic patterns in churned customers and visualiz
 
 * **Tableau**: Dashboard creation and visualization
 * **Python (pandas, matplotlib)**: Data exploration and validation
-* **Jupyter Notebook**: For documenting and analyzing raw data
+* **Google Colab**: For documenting and analyzing raw data
 * **GitHub**: Project versioning and showcase
 
 ---
